@@ -44,7 +44,7 @@ function Header() {
     >
       <div className="container max-w-[1280px] mx-auto flex justify-between items-center px-1 py-2">
         <a href="/">
-          <img src="/Logo.png" alt="Your Logo" className="h-20 w-auto" />
+          <img src="Logo.png" alt="Your Logo" className="h-20 w-auto" />
         </a>
 
         {/* Desktop Nav */}
